@@ -1,0 +1,11 @@
+User
+ '--post(text(firebase), image(Cloudinary)---Likes
+         '- Comments -Like(For every comment) --Replies to comments(Normal Comments but with '@user' if replying to user,
+         
+ User x User
+ '-chat-messages
+ 
+ Users(rooms)
+   'you , other users 
+     '--messages, replies, messages
+
